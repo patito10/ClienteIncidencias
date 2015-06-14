@@ -1,0 +1,24 @@
+#formularioacceso{
+    width: 400px;
+    height:230px;
+    margin: 0 auto;
+}
+@font-face{
+    font-family:'ely';
+    src:url('Roboto-Light.ttf');
+}
+#acceso{
+    text-align: center;
+    width:162px;
+    margin: 0 auto;
+    font-family: 'ely';
+   
+}
+#login{
+    margin-bottom: 5px;
+    font-family: 'ely';
+}
+#password{
+    margin-bottom: 5px;
+    font-family: 'ely';
+}
